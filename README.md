@@ -5,6 +5,14 @@ By using classical TCP socket programming and a user-friendly Java Swing GUI, th
 
 ## 📈 Interaction Diagram
 
+<div align="center">
+  <picture>
+    <source srcset="Images/Interaction_Diagram_Dark.png" media="(prefers-color-scheme: dark)">
+    <source srcset="Images/Interaction_Diagram_Light.png" media="(prefers-color-scheme: light)">
+    <img src="Images/Interaction_Diagram_Light.png" alt="Interaction Diagram" width="400px">
+  </picture>
+</div>
+
 ## 🧠 System Architecture
 
 The application follows a modular, client-server design:
