@@ -1,4 +1,4 @@
-# 🩺 Remote Health Monitoring System
+# 🏥 Remote Health Monitoring System
 The Remote Health Monitoring System (RHMS) is a Java-based client-server application designed to monitor and manage patients' health data remotely. It simulates real-time data transmission between a patient device (client) and a central medical server.
 
 By using classical TCP socket programming and a user-friendly Java Swing GUI, this system demonstrates how remote health tracking can be implemented effectively for chronic illness management and emergency response.
