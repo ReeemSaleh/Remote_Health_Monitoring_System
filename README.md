@@ -24,3 +24,12 @@ The application follows a modular, client-server design:
 All components communicate using TCP sockets to ensure reliable, ordered data transfer.
 
 ## 📷 Screenshots
+
+
+## 👨‍💻 Authors
+- Reem Saleh Saeed Al Malki
+- Asail Mashhour Al Amoudi
+- Mayar Mohammed Al Swill
+- Hadeel Abdullah Abuhamous
+- Reema Raddad Al Malki
+- Lujain Abdulaziz Al Sulami 
