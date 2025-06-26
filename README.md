@@ -29,15 +29,12 @@ All components communicate using TCP sockets to ensure reliable, ordered data tr
 
 <sub><b>Figure 1:</b> Sensor Client Application Interface.</sub>
 
-<p align="center">
-  <img src="Repository_Assets/Get_Input_Interface.png" alt="Get Input Interface" width="500"/>
-</p>
-<p align="center"><sub><b>Figure 1:</b> Get Input Interface</sub></p>
+<img src="Repository_Assets/Get_Input_Interface.png" alt="Get Input Interface" width="500"/>
+<sub><b>Figure 1:</b> Get Input Interface</sub>
 
-<p align="center">
-  <img src="Repository_Assets/Show_Data_Interface/png" alt="Show Data Interface" width="500"/>
-</p>
-<p align="center"><sub><b>Figure 1:</b> Show Data Interface</sub></p>
+
+<img src="Repository_Assets/Show_Data_Interface.png" alt="Show Data Interface" width="500"/>
+<sub><b>Figure 1:</b> Show Data Interface</sub>
 
 
 ## 👨‍💻 Authors
