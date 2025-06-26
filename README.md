@@ -44,25 +44,22 @@ All components communicate using TCP sockets to ensure reliable, ordered data tr
   <table style="border: none;">
     <tr>
       <td align="center" style="border: none;">
-        <img src="Repository_Assets/Patient_Health_Information_Interface.png" width="300"/><br/>
-        <sub><b>Figure 1:</b> Patient Health Information Interface</sub>
+        <img src="Repository_Assets/Patient_Health_Information_Interface.png" width="370"/><br/>
+        <sub><b>Figure 3:</b> Patient Health Information Interface</sub>
       </td>
       <td align="center" style="border: none;">
-        <img src="Repository_Assets/Personal_Server_Interface.png" width="300"/><br/>
-        <sub><b>Figure 2:</b> Personal Server Interface</sub>
+        <img src="Repository_Assets/Personal_Server_Interface.png" width="370"/><br/>
+        <sub><b>Figure 4:</b> Personal Server Interface</sub>
       </td>
       <td align="center" style="border: none;">
-        <img src="Repository_Assets/Medical_Server_Interface.png" width="300"/><br/>
-        <sub><b>Figure 2:</b> Medical Server Interface</sub>
+        <img src="Repository_Assets/Medical_Server_Interface.png" width="370"/><br/>
+        <sub><b>Figure 5:</b> Medical Server Interface</sub>
       </td>
     </tr>
   </table>
 </div>
 
 
-
-<img src="Repository_Assets/Show_Data_Interface.png" alt="Show Data Interface" width="500"/>
-<sub><b>Figure 3:</b> Show Data Interface</sub>
 
 
 ## 👨‍💻 Authors
