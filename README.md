@@ -41,16 +41,23 @@ All components communicate using TCP sockets to ensure reliable, ordered data tr
 </div>
 
 <div align="center">
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="Repository_Assets/Sensor_Client_Application_Interface.png" width="300"/><br/>
-    <sub><b>Figure 1:</b> Sensor Client Application Interface</sub>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="Repository_Assets/Get_Input_Interface.png" width="300"/><br/>
-    <sub><b>Figure 2:</b> Get Input Interface</sub>
-  </div>
+  <table style="border: none;">
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="Repository_Assets/Patient_Health_Information_Interface.png" width="300"/><br/>
+        <sub><b>Figure 1:</b> Patient Health Information Interface</sub>
+      </td>
+      <td align="center" style="border: none;">
+        <img src="Repository_Assets/Personal_Server_Interface.png" width="300"/><br/>
+        <sub><b>Figure 2:</b> Personal Server Interface</sub>
+      </td>
+      <td align="center" style="border: none;">
+        <img src="Repository_Assets/Medical_Server_Interface.png" width="300"/><br/>
+        <sub><b>Figure 2:</b> Medical Server Interface</sub>
+      </td>
+    </tr>
+  </table>
 </div>
-
 
 
 
