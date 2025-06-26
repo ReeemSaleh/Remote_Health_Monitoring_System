@@ -9,7 +9,7 @@ import java.net.Socket;
 
 public class Medical_Server {
 
-    public static void main(String[] args) throws IOException , ClassNotFoundException {
+    public static void main(String[] args) throws IOException, ClassNotFoundException {
 
         // Creat an object from the Action_interface to access the GUI printing method in the class
         GUI_Medical_Server alert= new GUI_Medical_Server();

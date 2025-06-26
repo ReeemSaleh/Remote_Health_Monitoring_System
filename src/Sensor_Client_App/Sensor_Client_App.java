@@ -84,18 +84,18 @@ public class Sensor_Client_App {
                 sensorsData = new String[]{date , time , String.valueOf(Temperature) , String.valueOf(HeartRate) , String.valueOf(OxygenLevel)};
 
                 // Store the sensed data in a vriable, print it on the console, and send it to the showData_interface to appear on the GUI
-                String msgT= "At date: " + date + ", time " + time + ", sensed temperature is " + Temperature;
+                String msgT= "At date: " + date + ", time: " + time + ", sensed temperature is " + Temperature;
                 System.out.println(msgT);
                 show.tempToString(msgT);
                 show.setVisible(true);
                 
                 
-                String msgH="At date: " + date + ", time " + time + ", sensed heart rate is " + HeartRate;
+                String msgH="At date: " + date + ", time: " + time + ", sensed heart rate is " + HeartRate;
                 System.out.println(msgH);
                 show.heartToString(msgH);
                 show.setVisible(true);
                 
-                String msgO="At date: " + date + ", time " + time + ", sensed oxygen saturation is " + OxygenLevel;
+                String msgO="At date: " + date + ", time: " + time + ", sensed oxygen saturation is " + OxygenLevel;
                 System.out.println(msgO);
                 show.oxToString(msgO);
                 show.setVisible(true);
