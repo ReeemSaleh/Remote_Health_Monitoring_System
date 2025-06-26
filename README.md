@@ -59,8 +59,24 @@ All components communicate using TCP sockets to ensure reliable, ordered data tr
   </table>
 </div>
 
-
-
+<div align="center">
+  <table style="border: none;">
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="Repository_Assets/Sensor_Client_Application_Terminal.png" width="370"/><br/>
+        <sub><b>Figure 3:</b> Sensor Client Application Terminal</sub>
+      </td>
+      <td align="center" style="border: none;">
+        <img src="Repository_Assets/Personal_Server_Terminal.png" width="370"/><br/>
+        <sub><b>Figure 4:</b> Personal Server Terminal</sub>
+      </td>
+      <td align="center" style="border: none;">
+        <img src="Repository_Assets/Medical_Server_Terminal.png" width="370"/><br/>
+        <sub><b>Figure 5:</b> Medical Server Terminal</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 👨‍💻 Authors
 - Reem Saleh Saeed Al Malki
