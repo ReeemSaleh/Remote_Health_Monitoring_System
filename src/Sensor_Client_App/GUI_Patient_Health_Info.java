@@ -1,10 +1,10 @@
 package Sensor_Client_App;
 
 // GUI class to display patient's health data
-public class GUI_Show_Data extends javax.swing.JFrame {
+public class GUI_Patient_Health_Info extends javax.swing.JFrame {
 
     // Constructor initializes UI and sets basic window properties
-    public GUI_Show_Data() {
+    public GUI_Patient_Health_Info() {
         initComponents();
         setTitle("Patient Monitoring System"); // Set window title
         setResizable(false); // Disable window resizing
@@ -206,12 +206,12 @@ public class GUI_Show_Data extends javax.swing.JFrame {
                 }
             }
         } catch (ClassNotFoundException | InstantiationException | IllegalAccessException | javax.swing.UnsupportedLookAndFeelException ex) {
-            java.util.logging.Logger.getLogger(GUI_Show_Data.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(GUI_Patient_Health_Info.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         }
 
         // Launch the GUI on the Event Dispatch Thread
         java.awt.EventQueue.invokeLater(() -> {
-            new GUI_Show_Data().setVisible(true);
+            new GUI_Patient_Health_Info().setVisible(true);
         });
     }
 

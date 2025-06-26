@@ -49,7 +49,7 @@ public class Sensor_Client_App {
             Random randNo = new Random();
             
             // Creat an object from the showData_interface to be able to send the data to that GUI
-            GUI_Show_Data show=new GUI_Show_Data();
+            GUI_Patient_Health_Info show=new GUI_Patient_Health_Info();
 
             // The minimum time of execution is 60 seconds
             if (userInput < 60) {

@@ -2,7 +2,7 @@ package Sensor_Client_App;
 
 public class GUI_Sensor_Client_App extends javax.swing.JFrame {
 
-    private final GUI_Input input_interface = new GUI_Input();
+    private final GUI_Get_Input input_interface = new GUI_Get_Input();
 
     public GUI_Sensor_Client_App() {
         initComponents();

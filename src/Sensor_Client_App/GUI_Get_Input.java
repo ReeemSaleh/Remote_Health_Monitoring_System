@@ -5,7 +5,7 @@ import java.awt.GridBagLayout;
 import java.awt.GridBagConstraints;
 
 // GUI class to get user input (execution time) for the SensorClientApp
-public class GUI_Input extends javax.swing.JFrame {
+public class GUI_Get_Input extends javax.swing.JFrame {
 
     // Create an instance of the main application logic class
     Sensor_Client_App SCA = new Sensor_Client_App();
@@ -14,7 +14,7 @@ public class GUI_Input extends javax.swing.JFrame {
     static int time;
 
     // Constructor initializes UI and sets basic window properties
-    public GUI_Input() {
+    public GUI_Get_Input() {
         initComponents();
         nextButton.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         jLabel11.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
@@ -257,12 +257,12 @@ public class GUI_Input extends javax.swing.JFrame {
                 }
             }
         } catch (ClassNotFoundException | InstantiationException | IllegalAccessException | javax.swing.UnsupportedLookAndFeelException ex) {
-            java.util.logging.Logger.getLogger(GUI_Input.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(GUI_Get_Input.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         }
 
         // Launch the GUI on the Event Dispatch Thread
         java.awt.EventQueue.invokeLater(() -> {
-            new GUI_Input().setVisible(true);
+            new GUI_Get_Input().setVisible(true);
         });
     }
 
