@@ -78,6 +78,26 @@ All components communicate using TCP sockets to ensure reliable, ordered data tr
   </table>
 </div>
 
+## 📁 Project Structure
+
+   ```bash
+    Remote_Health_Monitoring_System/
+    ├── src/
+    │   ├── Icons/
+    │   ├── Medical_Server/
+    │   │   ├── GUI_Medical_Server.java
+    │   │   └── Medical_Server.java
+    │   ├── Personal_Server/
+    │   │   ├── GUI_Personal_Server.java
+    │   │   └── Personal_Server.java
+    │   └── Sensor_Client_App/
+    │       ├── GUI_Get_Input.java
+    │       ├── GUI_Patient_Health_Info.java
+    │       ├── GUI_Sensor_Client_App.java
+    │       └── Sensor_Client_App.java
+    └── README.md
+   ```
+
 ## 👨‍💻 Authors
 - Reem Saleh Saeed Al Malki
 - Asail Mashhour Al Amoudi
